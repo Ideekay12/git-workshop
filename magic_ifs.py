@@ -35,3 +35,5 @@ while True:
 
     elif answers == 9:
         print("My answers are not of any importance")
+    elif answers == 10:
+        print("My answers are real")
